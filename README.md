@@ -21,8 +21,6 @@ I constantly build, break, and rebuild things to get better every day.
 <div> <img src="https://skillicons.dev/icons?i=html,css,scss" height="45" /> </div>
 ⚙ Tools & Platforms
 <div> <img src="https://skillicons.dev/icons?i=git,github,vscode" height="45" /> </div>
-📈 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iMoein1&show_icons=true&theme=tokyonight&hide_border=true" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMoein1&layout=compact&theme=tokyonight&hide_border=true" height="160" /> </div>
 
 🧩 Projects Snapshot
 
